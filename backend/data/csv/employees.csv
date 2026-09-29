@@ -1,0 +1,41 @@
+id,name,email,role,branch_id,authorized_customer_range
+E102,Anil Kulkarni,anil.kulkarni@zenithguard.bank,Customer Service Officer,BR_PUNE,C100-C180
+E108,Sanjay Pawar,sanjay.pawar@zenithguard.bank,Customer Service Officer,BR_MUMBAI,C200-C270
+E115,Gaurav Mehta,gaurav.mehta@zenithguard.bank,Teller,BR_MUMBAI,C200-C270
+E124,Sunita Deshmukh,sunita.deshmukh@zenithguard.bank,Loan Officer,BR_NAGPUR,C320-C400
+E105,Pooja Verma,pooja.verma@zenithguard.bank,Customer Service Officer,BR_PUNE,C100-C180
+E101,Ananya Mehta,ananya.mehta@zenithguard.bank,Customer Service Officer,BR_NAGPUR,C320-C499
+E103,Kavita Deshmukh,kavita.deshmukh@zenithguard.bank,Teller,BR_PUNE,C100-C199
+E104,Ritu Patel,ritu.patel@zenithguard.bank,Customer Service Officer,BR_NAGPUR,C320-C499
+E106,Sunita Pawar,sunita.pawar@zenithguard.bank,Customer Service Officer,BR_PUNE,C100-C199
+E107,Deepak Gadkari,deepak.gadkari@zenithguard.bank,Customer Service Officer,BR_NAGPUR,C320-C499
+E109,Rajesh Bhat,rajesh.bhat@zenithguard.bank,Branch Manager,BR_NAGPUR,C320-C499
+E110,Aarav Verma,aarav.verma@zenithguard.bank,Loan Officer,BR_NAGPUR,C320-C499
+E111,Anil Mehta,anil.mehta@zenithguard.bank,Branch Manager,BR_NAGPUR,C320-C499
+E112,Anil Deshmukh,anil.deshmukh@zenithguard.bank,Teller,BR_PUNE,C100-C199
+E113,Aditya Gupta,aditya.gupta@zenithguard.bank,Branch Manager,BR_PUNE,C100-C199
+E114,Rohan Bhat,rohan.bhat@zenithguard.bank,Loan Officer,BR_MUMBAI,C200-C319
+E116,Manish Kulkarni,manish.kulkarni@zenithguard.bank,Customer Service Officer,BR_NAGPUR,C320-C499
+E117,Tanvi Reddy,tanvi.reddy@zenithguard.bank,Loan Officer,BR_NAGPUR,C320-C499
+E118,Rohan Thakur,rohan.thakur@zenithguard.bank,Customer Service Officer,BR_PUNE,C100-C199
+E119,Sneha Pawar,sneha.pawar@zenithguard.bank,Loan Officer,BR_PUNE,C100-C199
+E120,Swati Bhat,swati.bhat@zenithguard.bank,Branch Manager,BR_PUNE,C100-C199
+E121,Priya Gupta,priya.gupta@zenithguard.bank,Loan Officer,BR_NAGPUR,C320-C499
+E122,Swati Thakur,swati.thakur@zenithguard.bank,Teller,BR_MUMBAI,C200-C319
+E123,Priya Nair,priya.nair@zenithguard.bank,Customer Service Officer,BR_NAGPUR,C320-C499
+E125,Priya Bhat,priya.bhat@zenithguard.bank,Teller,BR_NAGPUR,C320-C499
+E126,Rajesh Thakur,rajesh.thakur@zenithguard.bank,Loan Officer,BR_MUMBAI,C200-C319
+E127,Rajesh Patel,rajesh.patel@zenithguard.bank,Customer Service Officer,BR_MUMBAI,C200-C319
+E128,Swati Kulkarni,swati.kulkarni@zenithguard.bank,Branch Manager,BR_MUMBAI,C200-C319
+E129,Sunita Gadkari,sunita.gadkari@zenithguard.bank,Loan Officer,BR_PUNE,C100-C199
+E130,Preeti Joshi,preeti.joshi@zenithguard.bank,Branch Manager,BR_MUMBAI,C200-C319
+E131,Meera Nair,meera.nair@zenithguard.bank,Teller,BR_MUMBAI,C200-C319
+E132,Ritu Reddy,ritu.reddy@zenithguard.bank,Loan Officer,BR_NAGPUR,C320-C499
+E133,Rajesh Joshi,rajesh.joshi@zenithguard.bank,Loan Officer,BR_MUMBAI,C200-C319
+E134,Sneha Patel,sneha.patel@zenithguard.bank,Branch Manager,BR_NAGPUR,C320-C499
+E135,Priya Thakur,priya.thakur@zenithguard.bank,Teller,BR_PUNE,C100-C199
+E136,Manish Bhosale,manish.bhosale@zenithguard.bank,Customer Service Officer,BR_MUMBAI,C200-C319
+E137,Amit Nair,amit.nair@zenithguard.bank,Branch Manager,BR_NAGPUR,C320-C499
+E138,Swati Gadkari,swati.gadkari@zenithguard.bank,Customer Service Officer,BR_PUNE,C100-C199
+E139,Nikhil More,nikhil.more@zenithguard.bank,Customer Service Officer,BR_MUMBAI,C200-C319
+E140,Aarav Mehta,aarav.mehta@zenithguard.bank,Branch Manager,BR_PUNE,C100-C199
